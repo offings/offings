@@ -6,6 +6,7 @@
 * 디지털 취약 계층을 위한 간편 주문 모듈
 * 공공데이터를 활용한 실시간 병원 정보 시스템
 * 이미지 분석 및 특징점 검출 AI
+* 척추 병원의 수익률 증가와 척추 질환 재발을 위한 플랫폼 구축
 
 [![offing's GitHub stats](https://github-readme-stats.vercel.app/api?username=offings&theme=radical)](https://github.com/offings/github-readme-stats)
 

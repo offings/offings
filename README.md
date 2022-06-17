@@ -1,6 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HyeonjinKim%20&fontSize=90) 
-[![offing's GitHub stats](https://github-readme-stats.vercel.app/api?username=offings&theme=radical)](https://github.com/offings/github-readme-stats)
+## Introduce
+* 경북대학교 컴퓨터학부 졸업
+* POSCO BigData & AI 아카데미 17기 교육생
 
+## Projects
+* 디지털 취약 계층을 위한 간편 주문 모듈
+* 공공데이터를 활용한 실시간 병원 정보 시스템
+* 이미지 분석 및 특징점 검출 AI
+
+[![offing's GitHub stats](https://github-readme-stats.vercel.app/api?username=offings&theme=radical)](https://github.com/offings/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=06090419)](https://solved.ac/06090419/)
 
 <!--
